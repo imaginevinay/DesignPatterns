@@ -1,3 +1,7 @@
+//Object that creates different objects;
+//factories handle object creation at a centralized location
+
+
 function Developer (name){
   this.name = name;
   this.type = "Developer"  
